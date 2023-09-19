@@ -1,4 +1,4 @@
-import config from './xonfig.example.js';
+import config from './config.example.js';
 import http from 'http';
 import { spawn } from 'child_process';
 import { parseStringPromise } from 'xml2js';
